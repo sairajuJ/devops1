@@ -1,0 +1,13 @@
+
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+
+
+Chaitanya (to All - Entire Audience):
+
+12:36 PM: ami-006b56b3f14ff4617
+
+sudo wget http://repos.fedorapeople.org/repos/dchen/apache-maven/epel-apache-maven.repo -O /etc/yum.repos.d/epel-apache-maven.repo
+
+
+https://www.codeproject.com/Articles/170328/Maven-Build-for-NET-Application
